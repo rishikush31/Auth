@@ -20,7 +20,7 @@ logs
 # Docker
 postgres-data/
 db-init/*.sql~  # ignore temp files
-docker-compose.override.yml
+docker-compose.override.yml 
 
 # Build outputs
 dist/
